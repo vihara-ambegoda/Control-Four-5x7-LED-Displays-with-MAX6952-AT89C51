@@ -29,7 +29,7 @@ This project was completed as part of an academic assignment.
 
 ## 📜 How It Works
 
-1. Connect **AT89C51 → MAX6952** via **DIN, CLK, CS**
+1. Connect **AT89C51** to **MAX6952**
 2. Configure MAX6952 registers (Normal Mode, Scan Limit, Intensity)
 3. Send **ASCII codes** to display characters
 4. Simulate in **Proteus** & verify output
