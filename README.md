@@ -1,4 +1,4 @@
-# Control-Four-5x7-LED-Displays-with-MAX6952-AT89C51
+# Control Four 5x7 LED Displays with MAX6952 & AT89C51
 
 Easily drive four 5x7 dot Matrix LED displays using the **MAX6952** LED Driver and an **AT89C51** Microcontroller - all simulated in **Proteus**.
 
@@ -20,7 +20,7 @@ Easily drive four 5x7 dot Matrix LED displays using the **MAX6952** LED Driver a
 - **MAX6952** Display Driver IC
 - **Four 5x7 Common Anode LED Matrices**
 - **Resistors & capacitors** for interfacing
-- Simulation Tool: **Proteus 8.6 Professional**
+- Simulation Tool: **Proteus 8 Professional**
 - Language: **C** (compiled with **Keil** compiler)
 
 ---
@@ -36,4 +36,16 @@ Easily drive four 5x7 dot Matrix LED displays using the **MAX6952** LED Driver a
 
 ## 📸 Simulation Output
 
-![Simulation Output](simulation.png)
+**Simulation (Proteus 8 Professional):**  
+![Simulation Screenshot](simulation.png)  
+
+**Code:**  
+> **Note:** I will not be uploading the full source code to maintain academic integrity.
+![Code](code.png)  
+
+---
+
+## 📬 Contact
+If you have feedback or suggestions, feel free to [open an issue](https://github.com).
+
+---
