@@ -2,7 +2,7 @@
 
 Easily drive four 5x7 dot Matrix LED displays using the **MAX6952** LED Driver and an **AT89C51** Microcontroller - all simulated in **Proteus**.
 
-This project was completed as part of an academic assignment.
+This project was completed in 2019 as part of an academic assignment.
 
 ---
 
